@@ -27,6 +27,12 @@
               "essentials/breakdown",
               "essentials/roadmap"
             ]
+          },
+          {
+            "group": "Queen",
+            "pages": [
+              "queen/overview"
+            ]
           }
         ]
       }
