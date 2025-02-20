@@ -1,7 +1,7 @@
 {
   "$schema": "https://mintlify.com/docs.json",
   "theme": "mint",
-  "name": "DeSwarm: Documentation",
+  "name": "DeSwarm",
   "colors": {
     "primary": "#D4AAFB",
     "light": "#D4AAFB",
@@ -48,8 +48,8 @@
         },
         {
           "anchor": "Community",
-          "href": "https://mintlify.com/community",
-          "icon": "discord"
+          "href": "https://t.me/deswarmio",
+          "icon": "telegram"
         }
       ]
     }
