@@ -4,8 +4,8 @@
   "name": "DeSwarm: Documentation",
   "colors": {
     "primary": "#D4AAFB",
-    "light": "#07C983",
-    "dark": "#15803D"
+    "light": "#D4AAFB",
+    "dark": "#D4AAFB"
   },
   "favicon": "/favicon.svg",
   "navigation": {
