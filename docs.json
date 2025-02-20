@@ -23,7 +23,9 @@
           {
             "group": "Solution",
             "pages": [
-              "essentials/workflow"
+              "essentials/workflow",
+              "essentials/breakdown",
+              "essentials/roadmap"
             ]
           }
         ]
