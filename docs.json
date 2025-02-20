@@ -1,9 +1,9 @@
 {
   "$schema": "https://mintlify.com/docs.json",
-  "theme": "mint",
+  "theme": "purple",
   "name": "DeSwarm: Documentation",
   "colors": {
-    "primary": "#16A34A",
+    "primary": "#D4AAFB",
     "light": "#07C983",
     "dark": "#15803D"
   },
