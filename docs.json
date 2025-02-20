@@ -23,15 +23,15 @@
           {
             "group": "Solution",
             "pages": [
-              "essentials/workflow",
-              "essentials/breakdown",
-              "essentials/roadmap"
+              "solution/workflow",
+              "solution/breakdown",
+              "solution/roadmap"
             ]
           },
           {
             "group": "Queen",
             "pages": [
-              "queen/overview",
+              "queen/fund",
               "queen/platform"
             ]
           }
