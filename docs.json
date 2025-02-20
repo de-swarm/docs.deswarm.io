@@ -31,7 +31,8 @@
           {
             "group": "Queen",
             "pages": [
-              "queen/overview"
+              "queen/overview",
+              "queen/platform"
             ]
           }
         ]
