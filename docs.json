@@ -21,18 +21,25 @@
             ]
           },
           {
-            "group": "Solution",
+            "group": "Technical Architecture",
             "pages": [
               "solution/workflow",
-              "solution/breakdown",
-              "solution/roadmap"
+              "solution/breakdown"
+            ]
+          },
+          {
+            "group": "DeSwarm: Platform",
+            "pages": [
+              "platform/roadmap",
+              "platform/token-gated-terminal",
+              "platform/defai-vaults"
             ]
           },
           {
             "group": "Queen",
             "pages": [
               "queen/fund",
-              "queen/platform"
+              "queen/api"
             ]
           }
         ]
@@ -48,7 +55,7 @@
         },
         {
           "anchor": "Community",
-          "href": "https://t.me/deswarmio",
+          "href": "https://t.me/DeSwarm",
           "icon": "telegram"
         }
       ]
