@@ -38,9 +38,9 @@
           {
             "group": "Queen",
             "pages": [
+              "queen/tokenomics",
               "queen/fund",
-              "queen/api",
-              "queen/tokenomics"
+              "queen/api"
             ]
           }
         ]
