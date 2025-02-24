@@ -39,7 +39,8 @@
             "group": "Queen",
             "pages": [
               "queen/fund",
-              "queen/api"
+              "queen/api",
+              "queen/tokenomics"
             ]
           }
         ]
