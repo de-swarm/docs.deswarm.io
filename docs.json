@@ -58,6 +58,11 @@
           "anchor": "Community",
           "href": "https://t.me/DeSwarm",
           "icon": "telegram"
+        },
+        {
+          "anchor": "Twitter",
+          "href": "https://x.com/deswarmio",
+          "icon": "twitter"
         }
       ]
     }
