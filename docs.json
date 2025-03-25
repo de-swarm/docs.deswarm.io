@@ -25,7 +25,9 @@
             "pages": [
               "platform/token-gated-terminal",
               "platform/defai-vaults",
-              "platform/perpetual-dex"
+              "platform/perpetual-dex",
+              "platform/fee-structure",
+              "platform/audits"
             ]
           },
           {
