@@ -21,6 +21,14 @@
             ]
           },
           {
+            "group": "DeSwarm: Platform",
+            "pages": [
+              "platform/token-gated-terminal",
+              "platform/defai-vaults",
+              "platform/perpetual-dex"
+            ]
+          },
+          {
             "group": "Technical Architecture",
             "pages": [
               "solution/workflow",
@@ -28,19 +36,11 @@
             ]
           },
           {
-            "group": "DeSwarm: Platform",
+            "group": "Economics",
             "pages": [
-              "platform/roadmap",
-              "platform/token-gated-terminal",
-              "platform/defai-vaults"
-            ]
-          },
-          {
-            "group": "Queen",
-            "pages": [
-              "queen/tokenomics",
-              "queen/fund",
-              "queen/api"
+              "economics/tokenomics",
+              "economics/pol",
+              "economics/staking"
             ]
           }
         ]
