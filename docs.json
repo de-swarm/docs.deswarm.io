@@ -4,8 +4,8 @@
   "name": "DeSwarm",
   "colors": {
     "primary": "#D4AAFB",
-    "light": "#7D00F3",
-    "dark": "#D4AAFB"
+    "light": "#D4AAFB",
+    "dark": "#7D00F3"
   },
   "favicon": "/favicon.svg",
   "navigation": {
