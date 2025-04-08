@@ -31,13 +31,6 @@
             ]
           },
           {
-            "group": "Technical Architecture",
-            "pages": [
-              "solution/workflow",
-              "solution/breakdown"
-            ]
-          },
-          {
             "group": "Economics",
             "pages": [
               "economics/tokenomics",
