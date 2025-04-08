@@ -29,14 +29,6 @@
               "platform/fee-structure",
               "platform/audits"
             ]
-          },
-          {
-            "group": "Economics",
-            "pages": [
-              "economics/tokenomics",
-              "economics/pol",
-              "economics/staking"
-            ]
           }
         ]
       }
