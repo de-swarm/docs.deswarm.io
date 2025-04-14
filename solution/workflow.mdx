@@ -1,23 +1,27 @@
 ---
-title: 'Agent Workflow'
+title: 'Workflows'
 description: 'Understand our architecture'
 ---
 
-Two-layer architecture:
+The significant infrastructure disparity between agent theoretical capabilities and practical implementation for yield optimization necessitates a purpose-built solution addressing the complexities of automated financial operations in dynamic market environments. While existing infrastructure provides robust transaction execution mechanisms, it lacks the specialized capabilities required for secure, scalable, and user-friendly agent operations. DeSwarm has developed the essential infrastructure to maximize the potential of Berachain's Proof of Liquidity (PoL) protocol.
 
-1. Autonomous layer: Market data processing → Risk assessment → Deposit execution
-2. User layer: NLP command processing → Deposit validation → On-chain execution
+DeSwarm effectively bridges the divide between conceptual agent capabilities and their practical implementation for yield optimization. The protocol leverages Berachain's Proof of Liquidity (PoL) to enable users to effortlessly create and manage diversified yield portfolios.
 
-Each fund runs on an isolated agent instance to prevent security vulnerabilities. Strict 1:1 mapping between agents and managed funds.
+The DeSwarm protocol operates on a sophisticated two-layer architectural foundation:
 
-### **Queen Agent**
+1. Terminal Layer: Provides the foundational infrastructure for agent operations
+2. Execution Layer: Handles transaction execution and portfolio management
 
-Distributed AI system executing trades based on market analysis. Operates either autonomously within pre-set risk parameters or via user commands. Uses multi-agent validation for trade execution.
+Each fund operates on an isolated agent instance, maintaining a strict 1:1 mapping between agents and managed funds to prevent security vulnerabilities and ensure operational integrity.
 
-<img alt="AI Agent Workflow" classname="hidden dark:block" src="/images/agent-workflow.png" />
+### **Terminal Workflow**
 
-### **Queen Terminal**
-
-Token-gated interface for direct agent interaction. Users input strategies in natural language, which get parsed into executable on-chain transactions or recommendations. All operations require wallet signature confirmation.
+The Terminal component functions as a sophisticated market analysis system providing comprehensive insights and data visualization for the Berachain DeFi ecosystem. It serves as an advanced search engine for market sentiment and yield opportunities without executing trades directly.
 
 <img alt="Terminal Workflow" classname="hidden dark:block" src="/images/terminal-workflow.png" />
+
+### **Vault Workflow**
+
+The Vault component enables automated portfolio management through advanced agent operations. Users can interact with the platform to define investment strategies, which are then implemented by the protocol within predetermined parameters. All operations require wallet signature confirmation to maintain security and user control.
+
+<img alt="Vault Workflow" classname="hidden dark:block" src="/images/vault-workflow.png" />

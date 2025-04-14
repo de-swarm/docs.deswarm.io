@@ -29,6 +29,12 @@
               "platform/fee-structure",
               "platform/audits"
             ]
+          },
+          {
+            "group": "DeSwarm: Solution",
+            "pages": [
+              "solution/workflow"
+            ]
           }
         ]
       }
