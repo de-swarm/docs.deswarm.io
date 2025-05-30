@@ -14,14 +14,23 @@ The DeSwarm protocol operates on a sophisticated two-layer architectural foundat
 
 Each vault operates on an isolated agent instance, maintaining a strict 1:1 mapping between agents and managed vaults to prevent security vulnerabilities and ensure operational integrity.
 
+### **Agentic Workflow**
+
+Two-layer architecture:
+
+1. Autonomous layer: Market data processing → Risk assessment → Deposit execution
+2. User layer: NLP command processing → Deposit validation → On-chain execution
+
+Each vault runs on an isolated agent instance to prevent security vulnerabilities. Strict 1:1 mapping between agents and managed funds.
+
+Distributed AI system executing trades based on market analysis. Operates either autonomously within pre-set risk parameters or via user commands. Uses multi-agent validation for trade execution.
+
+<img alt="Vault Workflow" classname="hidden dark:block" src="/images/agentic-workflow.png" />
+
+
 ### **Terminal Workflow**
 
-The Terminal component functions as a sophisticated market analysis system providing comprehensive insights and data visualization for DeFi ecosystem. It serves as an advanced search engine for market sentiment and yield opportunities without executing trades directly.
+Interface for direct agent interaction. Users input prompts in natural language, which get parsed into executable recommendations. All operations require wallet signature confirmation.
 
-<img alt="Terminal Workflow" classname="hidden dark:block" src="/images/terminal-workflow.png" />
+<img alt="Terminal Workflow" classname="hidden dark:block" src="/images/terminal-workflow-new.png" />
 
-### **Vault Workflow**
-
-The Vault component enables automated portfolio management through advanced agent operations. Users can interact with the platform to define investment strategies, which are then implemented by the protocol within predetermined parameters. All operations require wallet signature confirmation to maintain security and user control.
-
-<img alt="Vault Workflow" classname="hidden dark:block" src="/images/vault-workflow.png" />
