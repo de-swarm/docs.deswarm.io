@@ -25,7 +25,7 @@
             "pages": [
               "platform/token-gated-terminal",
               "platform/defai-vaults",
-              "platform/perpetual-dex",
+              "platform/queen-fund",
               "platform/fee-structure",
               "platform/audits"
             ]
